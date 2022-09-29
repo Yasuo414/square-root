@@ -1,7 +1,7 @@
 # square-root
 A simple Java program for finding the square root of a given number
 
-The program build is in the "dist" directory.
+The latest build of the program is in Releases.
 The programme is in Czech language.
 
 Requires Java 8 .
