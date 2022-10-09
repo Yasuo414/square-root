@@ -6,3 +6,6 @@ The programme is in Czech language.
 
 Requires Java 8 .
 You can download it from this page: https://www.java.com/en/
+
+The first version of the program is open source,
+but the others are not!
