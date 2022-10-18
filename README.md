@@ -15,3 +15,5 @@ but the others are not!
 
 # Download
 If you want to download the latest version of the program <a href="https://github.com/Ssemgame/square-root/releases/tag/v7">click here</a>
+
+For older versions of the program click here
